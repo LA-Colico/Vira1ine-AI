@@ -215,8 +215,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 **Developed by Lanz Andrei Colico**
 
-Built with 💜 for Gen Z creators
-
 ---
 
 **Happy Creating! 🎉**
