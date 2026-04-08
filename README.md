@@ -62,16 +62,6 @@ Vira1ine helps social media creators track trends, find optimal posting times, a
 
 3. **Set up environment variables**
 
-   **Server** (`.env` in `/server`):
-   ```env
-   PORT=5000
-   NODE_ENV=development
-   MONGODB_URI=mongodb://localhost:27017/vira1ine
-   JWT_SECRET=your_super_secret_jwt_key
-   OPENAI_API_KEY=your_openai_api_key_here
-   CLIENT_URL=http://localhost:5173
-   ```
-
    **Client** (`.env` in `/client`):
    ```env
    VITE_API_URL=http://localhost:5000/api
